@@ -50,3 +50,18 @@ Once you kick off a discussion, the GitHub product team will evaluate the feedba
 ## Disclaimer
 
 Any statement in this repository that is not purely historical is considered a forward-looking statement. Forward-looking statements included in this repository are based on information available to GitHub as of the date they are made, and GitHub assumes no obligation to update any forward-looking statements. The forward-looking comments in the public feedback discussions do not represent a commitment, guarantee, obligation or promise to deliver any product or feature, or to deliver any product and feature by any particular date, and are intended to outline the general development plans. Customers should not rely on these public feedback discussions to make any purchasing decision.
+
+# Community `.github` Repository
+
+This repository serves as the central configuration and template hub for the [GitHub Community organization](https://github.com/community). It contains reusable workflows, community guidelines, and organization-wide configurations that support the GitHub Community's mission to foster collaboration and learning.
+
+## 📋 Overview
+
+The **GitHub Community** is built to support all GitHub users on their educational journey through Discussions. This repository provides:
+
+- **Organization Profile** - Community guidelines and quick links
+- **Workflow Templates** - Reusable GitHub Actions workflows for community projects
+- **GitHub Configuration** - Organization-wide settings and templates
+- **Documentation** - Links to important policies and guidelines
+
+## 🗂️ Repository Structure
